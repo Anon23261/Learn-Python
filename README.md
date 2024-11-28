@@ -34,6 +34,36 @@ Welcome to the Learn Python repository! This project is designed to provide a co
 10. **Lesson 10: Classes and Objects**
     - Basics of object-oriented programming.
 
+11. **Lesson 11: Inheritance and Polymorphism**
+    - Key concepts in object-oriented programming.
+
+12. **Lesson 12: Modules and Packages**
+    - Organizing and reusing code.
+
+13. **Lesson 13: Iterators and Generators**
+    - Efficient data iteration methods.
+
+14. **Lesson 14: Decorators**
+    - Modifying function behavior.
+
+15. **Lesson 15: Context Managers**
+    - Managing resources efficiently.
+
+16. **Lesson 16: Regular Expressions**
+    - Pattern matching in strings.
+
+17. **Lesson 17: Networking**
+    - Basic networking concepts using sockets.
+
+18. **Lesson 18: Multithreading**
+    - Concurrent execution of tasks.
+
+19. **Lesson 19: Database Interaction**
+    - Using SQLite for database operations.
+
+20. **Lesson 20: Web Scraping**
+    - Extracting data from websites using BeautifulSoup.
+
 ## Getting Started
 
 To get started with these lessons, clone the repository and navigate to the `Python` directory. Each lesson is contained in a separate Python file.
