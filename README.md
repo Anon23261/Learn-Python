@@ -64,6 +64,27 @@ Welcome to the Learn Python repository! This project is designed to provide a co
 20. **Lesson 20: Web Scraping**
     - Extracting data from websites using BeautifulSoup.
 
+## Quizzes
+
+Interactive quizzes are available to reinforce the concepts learned in each lesson. These quizzes include multiple-choice questions and coding exercises that provide immediate feedback and scoring.
+
+- **Quiz 1**: Basics of Programming and Control Structures
+- **Quiz 2**: Functions and Modules
+- **Quiz 3**: Data Structures
+- **Quiz 4**: Object-Oriented Programming
+- **Quiz 5**: Calculator and Guessing Game Projects
+- **Quiz 6**: Contact Book, Quiz Application, and Inventory System Projects
+
+## Project Modules
+
+The project modules provide hands-on experience with real-world applications of Python programming concepts. These modules are designed to help students apply what they've learned in practical scenarios.
+
+- **Project 1**: Basic Calculator
+- **Project 2**: Guessing Game
+- **Project 3**: Contact Book
+- **Project 4**: Quiz Application
+- **Project 5**: Simple Inventory System
+
 ## Getting Started
 
 To get started with these lessons, clone the repository and navigate to the `Python` directory. Each lesson is contained in a separate Python file.
