@@ -29,6 +29,13 @@ print("Multiplication: 6 * 7 =", mul_result)
 div_result = 20 / 5  # Divides 20 by 5
 print("Division: 20 / 5 =", div_result)
 
+# Note: Be careful with division, as dividing by zero will cause an error.
+try:
+    div_by_zero_result = 10 / 0
+    print("Division: 10 / 0 =", div_by_zero_result)
+except ZeroDivisionError:
+    print("Error: Division by zero is not allowed.")
+
 # More Operations
 # Python supports other operations like exponentiation and modulus.
 
